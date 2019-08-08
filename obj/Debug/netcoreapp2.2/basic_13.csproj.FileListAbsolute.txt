@@ -1,0 +1,11 @@
+/Users/chachi/Desktop/C#/basic_13/bin/Debug/netcoreapp2.2/basic_13.deps.json
+/Users/chachi/Desktop/C#/basic_13/bin/Debug/netcoreapp2.2/basic_13.runtimeconfig.json
+/Users/chachi/Desktop/C#/basic_13/bin/Debug/netcoreapp2.2/basic_13.runtimeconfig.dev.json
+/Users/chachi/Desktop/C#/basic_13/bin/Debug/netcoreapp2.2/basic_13.dll
+/Users/chachi/Desktop/C#/basic_13/bin/Debug/netcoreapp2.2/basic_13.pdb
+/Users/chachi/Desktop/C#/basic_13/obj/Debug/netcoreapp2.2/basic_13.csprojAssemblyReference.cache
+/Users/chachi/Desktop/C#/basic_13/obj/Debug/netcoreapp2.2/basic_13.csproj.CoreCompileInputs.cache
+/Users/chachi/Desktop/C#/basic_13/obj/Debug/netcoreapp2.2/basic_13.AssemblyInfoInputs.cache
+/Users/chachi/Desktop/C#/basic_13/obj/Debug/netcoreapp2.2/basic_13.AssemblyInfo.cs
+/Users/chachi/Desktop/C#/basic_13/obj/Debug/netcoreapp2.2/basic_13.dll
+/Users/chachi/Desktop/C#/basic_13/obj/Debug/netcoreapp2.2/basic_13.pdb
